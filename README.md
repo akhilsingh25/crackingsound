@@ -1,5 +1,16 @@
-# crackingsound
-cracking sound is the newname i just thought it off the build time name is ghostu 
-Just trying to build some escape route not to answer in the online classes , play this as network failure sound
+# ghostu
 
-A flutter based simple app, used packages audio_cache and audioplayer. 
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
